@@ -25,6 +25,10 @@ To clone the repo: <br>
 ## Screenshot:
 
 Here is screenshot of my application.
+![localhost_3000_ (1)](https://user-images.githubusercontent.com/54869821/205473673-c01d77ae-8f8c-4967-a0e5-30ddc486d947.png)
+
+![localhost_3000_](https://user-images.githubusercontent.com/54869821/205473674-825d5063-0250-4779-97f0-c9641ae2ad3c.png)
+
 
 ## Deployment:
 
